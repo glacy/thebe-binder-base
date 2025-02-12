@@ -1,9 +1,5 @@
 numpy
 scipy
-tqdm
-pandas
+sympy
 matplotlib
-ipywidgets
-ipympl
-ipyleaflet
 jupyterlab
