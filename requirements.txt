@@ -1,6 +1,7 @@
+
+plotly
 numpy
 scipy
 sympy
 matplotlib
 jupyterlab
-plotly
