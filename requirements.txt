@@ -1,4 +1,4 @@
-tabulate
+tensorflow
 plotly
 numpy
 scipy
