@@ -1,5 +1,4 @@
 einsteinpy
-tensorflow
 plotly
 numpy
 scipy
