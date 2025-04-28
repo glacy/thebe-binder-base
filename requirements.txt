@@ -1,3 +1,4 @@
+einsteinpy
 tensorflow
 plotly
 numpy
