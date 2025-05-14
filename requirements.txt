@@ -1,3 +1,4 @@
+gravipy
 einsteinpy
 plotly
 numpy
